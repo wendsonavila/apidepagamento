@@ -1,5 +1,5 @@
 #!/bin/sh
-wget https://raw.githubusercontent.com/spark22332/SSHPLUS/master/remove.sh
+wget https://raw.githubusercontent.com/universoflix/painel/main/remove.sh
 chmod 777 remove.sh
 wget https://raw.githubusercontent.com/universoflix/painel/main/AtlantusMakeAccount.sh
 chmod 777 AtlantusMakeAccount.sh
