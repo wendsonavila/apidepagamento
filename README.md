@@ -4,6 +4,6 @@ wget https://raw.githubusercontent.com/universoflix/painel/main/api-sshplus-inst
 
 COMANDO PARA SICRONIZAÇÃO
 
-wget https://raw.githubusercontent.com/universoflix/painel/main/servidor-install.sh && chmod 777 servidor-install.sh && ./servidor-install.sh
+wget https://raw.githubusercontent.com/universoflix/painel/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
 
 
