@@ -7,3 +7,10 @@ COMANDO PARA SICRONIZAÇÃO
       wget https://raw.githubusercontent.com/universoflix/painel/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
 
 
+DEPOIS ADICIONE SEU SUBFOMINIO IGUAL A IMAGEM
+
+      cd /etc/apache2/sites-available
+
+
+      nano renovar.conf
+
