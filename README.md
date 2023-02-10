@@ -1,6 +1,6 @@
 COMANDO PARA INSTALAÇÂO Do Painel
 
-      wget https://raw.githubusercontent.com/universoflix/painel/main/install-painel.sh && chmod 777 install-painel.sh && ./install-painel.sh
+      wget https://raw.githubusercontent.com/universoflix/painel/main/panel-install.sh && chmod 777 panel-install.sh && ./panel-install.sh
 
 COMANDO PARA SICRONIZAÇÃO
 
