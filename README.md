@@ -7,7 +7,7 @@ COMANDO PARA SICRONIZAÇÃO
       wget https://raw.githubusercontent.com/universoflix/painel/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
 
 
-DEPOIS ADICIONE SEU SUBFOMINIO IGUAL A IMAGEM
+DEPOIS ADICIONE SEU SUBDOMINIO, SUBSTITUINDO (ServerName) e (ServerAlias)
 
       cd /etc/apache2/sites-available
 
