@@ -1,6 +1,6 @@
 COMANDO PARA INSTALAÇÂO Do Painel
 
-wget https://raw.githubusercontent.com/universoflix/painel/main/api-sshplus-install.sh && chmod 777 api-sshplus-install.sh && ./api-sshplus-install.sh
+wget https://raw.githubusercontent.com/universoflix/painel/main/apisshplus-install.sh && chmod 777 apisshplus-install.sh && ./apisshplus-install.sh
 
 COMANDO PARA SICRONIZAÇÃO
 
