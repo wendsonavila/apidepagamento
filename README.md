@@ -1,9 +1,9 @@
 COMANDO PARA INSTALAÇÂO Do Painel
 
-wget https://raw.githubusercontent.com/universoflix/painel/main/apisshplus-install.sh && chmod 777 apisshplus-install.sh && ./apisshplus-install.sh
+      wget https://raw.githubusercontent.com/universoflix/painel/main/install-painel.sh && chmod 777 install-painel.sh && ./install-painel.sh
 
 COMANDO PARA SICRONIZAÇÃO
 
-wget https://raw.githubusercontent.com/universoflix/painel/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
+      wget https://raw.githubusercontent.com/universoflix/painel/main/sicronizar.sh && chmod 777 sicronizar.sh && ./sicronizar.sh
 
 
