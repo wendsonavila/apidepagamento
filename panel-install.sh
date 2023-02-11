@@ -6,5 +6,5 @@ wget https://raw.githubusercontent.com/universoflix/php/main/install-ioncube1.sh
 echo "\033[1;36mInstalando o subdominio \033[0m" 
 wget https://raw.githubusercontent.com/universoflix/php/main/install-sudominio.sh && chmod 777 install-sudominio.sh && ./install-sudominio.sh
 echo "\033[1;36mInstalando Painel de Renovação \033[0m" 
-wget https://raw.githubusercontent.com/universoflix/painel/main/sshplus-api-install.sh && chmod 777 sshplus-api-install.sh && ./sshplus-api-install.sh
+wget https://raw.githubusercontent.com/universoflix/painel/main/sshplus-api-install1.sh && chmod 777 sshplus-api-install1.sh && ./sshplus-api-install1.sh
 echo "\e[0;31mInstalado com Sucesso \e[0m"
