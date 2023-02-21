@@ -1,6 +1,6 @@
 COMANDO PARA A INSTALAÇÂO DO PAINEL DE RENOVAÇÃO 
 
-      wget https://raw.githubusercontent.com/universoflix/painel/main/panel-install.sh && chmod 777 panel-install.sh && ./panel-install.sh
+      wget https://raw.githubusercontent.com/universoflix/painel/main/panel-install1.sh && chmod 777 panel-install1.sh && ./panel-install1.sh
 
 DEPOIS ADICIONE SEU SUBDOMINIO, SUBSTITUINDO (ServerName) e (ServerAlias)
 
